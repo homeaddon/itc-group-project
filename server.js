@@ -4,11 +4,9 @@ const path = require("path");
 
 const app = express();
 
-// Middleware
 app.use(express.json());
-app.use(express.static("public")); // SERVE HTML, CSS, JS
+app.use(express.static("public")); 
 
-// API route
 app.post("/save", (req, res) => {
     const newData = req.body;
     let data = [];
@@ -44,7 +42,6 @@ app.get("/account/:accountNo", (req, res) => {
 });
 
 
-// Start server
 app.listen(3000, () => {
     console.log("Server running at http://localhost:3000");
 });
