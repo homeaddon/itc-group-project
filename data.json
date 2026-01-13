@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Muhammad Ayaan Khan",
+    "bankName": "Meezaan",
+    "accountNo": "01201902810938",
+    "atmNo": "091238092108310",
+    "cvcNo": "312"
+  },
+  {
+    "name": "Ayan Ali",
+    "bankName": "Bank of Punjab",
+    "accountNo": "03129031292",
+    "atmNo": "923819238912",
+    "cvcNo": "219"
+  },
+  {
+    "name": "Muhammad Akash",
+    "bankName": "UBL",
+    "accountNo": "95843958983598",
+    "atmNo": "0129192929199191",
+    "cvcNo": "690"
+  },
+  {
+    "name": "Muhammad Yousuf",
+    "bankName": "HBL",
+    "accountNo": "02939120030921111",
+    "atmNo": "342589285230942",
+    "cvcNo": "213"
+  }
+]
