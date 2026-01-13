@@ -70,12 +70,12 @@ button {
 .button-group {
     display: flex;
     justify-content: center;
-    gap: 15px; /* space between buttons */
+    gap: 15px; 
     margin-top: 20px;
 }
 
 .button-group button {
-    margin-left: 0; /* remove old margin */
+    margin-left: 0;
 }
 
 button:hover{
